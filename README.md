@@ -21,8 +21,3 @@ This script requires the following Python libraries:
 ## Licence
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-You can install the necessary libraries using pip:
-
-```bash
-pip install numpy matplotlib scipy
