@@ -19,6 +19,5 @@ This script requires the following Python libraries:
 - `scipy` (for scientific constants and calculations)
 
 You can install the necessary libraries using pip:
-
 ```bash
 pip install numpy matplotlib scipy
